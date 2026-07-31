@@ -1,0 +1,6 @@
+{
+  "name": "universal-chm-reader",
+  "private": true,
+  "type": "module",
+  "description": "A static, browser-only CHM reader for GitHub Pages."
+}
